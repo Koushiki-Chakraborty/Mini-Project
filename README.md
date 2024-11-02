@@ -37,6 +37,7 @@ Check out a live demo [https://github.com/Koushiki-Chakraborty/Mini-Project/blob
 
 ## Folder Structure
    mini-project/
+   
    ├── index.html      
    ├── style.css       
    └── README.md    
